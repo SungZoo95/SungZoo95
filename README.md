@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SungZoo95&show_icons=true&theme=panda)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SungZoo&show_icons=true&theme=panda)
